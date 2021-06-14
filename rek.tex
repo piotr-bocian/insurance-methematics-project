@@ -1,0 +1,27 @@
+\documentclass[12pt]{article}
+\usepackage{polski}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\begin{document}
+Wzór rekurencyjny ciągu - wzór pozwalający na obliczenie wyrazu ciągu za pomocą poprzedniego wyrazu. Bardzo popularnym przykładem jest ciąg Fibonacciego:
+$$a_1=a_2=1,$$ 
+$$a_n=a_{n-1}+a_{n-2}$$ 
+Innymi słowy - dwa pierwsze wyrazy ciągu są równe $1$ a kolejne są sumą dwóch poprzednich tj. $$a_3=a_2+a_1=2,$$ $$a_4=a_3+a_2=3,$$ 
+i tak dalej.\\
+Rekurencyjnie można zdefiniować np. silnię liczby $n\in\mathbb{N}$ (ozn. $n!$) jako:
+$$n!=\begin{cases}
+1 & \text{gdy $n=1$} \\
+n\cdot(n-1)! & \text{w przeciwnym wypadku}
+\end{cases}$$
+Jest to równoważne ogólnemu wzorowi:
+$$n!=1\cdot 2\cdot\dots\cdot (n-1)\cdot n$$
+Ogólna intuicja rekurencji jest taka, że mając dwa kolejne wyrazy ciągu trzeba napisać co należy zrobić z jednym żeby uzyskać następny.\\
+W zadaniu mamy ciąg $a_n=-n^2-3n$. Jego kolejne wyrazy to $-4,-10,-18,-20,\dots$.
+Mamy:
+$$a_1=-4$$
+$$a_2=-4-6=a_1-6$$
+$$a_3=-10-8=a_2-8$$
+Ogólnie w każdym kroku odejmujemy o $2$ więcej nic w poprzednim. Stąd uzyskujemy:
+$$a_n=a_{n-1}-2(n+1)$$
+$$CF_C=(\langle 1, 8\rangle,\langle 2, 8\rangle,\langle 3,8\rangle,\langle 4, 108\rangle)$$
+\end{document}

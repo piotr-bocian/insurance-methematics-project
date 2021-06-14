@@ -1,0 +1,227 @@
+{VERSION 2015 2 "Windows 8" "2015.2" }
+{USTYLETAB {PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 2" -1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered
+ List 3" -1 202 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 
+0 0 1 }1 1 0 0 3 3 2 72 2 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 
+1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3
+ 3 2 108 2 0 2 2 -1 1 }{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 
+2 -1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{PSTYLE "Warning" 
+-1 7 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Annotation Title" -1 205 1 
+{CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 12 
+12 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "" -1 -1 "C
+ourier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1
+ }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printe
+d Output" -1 6 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 
+{CSTYLE "" -1 -1 "Courier" 1 9 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 
+0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Text Output" -1 2 1 {CSTYLE "" -1 -1 "C
+ourier New" 1 12 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1 "Courier New" 1 
+12 40 120 40 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 
+2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Maple Output" -1 
+11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "" -1 -1 "
+Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 
+}{PSTYLE "HyperlinkError" -1 206 1 {CSTYLE "" -1 -1 "Courier New" 1 12
+ 255 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1
+ 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Title" -1
+ 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0
+ 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1
+ "Times" 1 18 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 
+1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 4
+" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 1 0 0 1 }1
+ 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" -1 5 1 {CSTYLE "" -1 
+-1 "Times" 1 14 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "Times" 1 16 0 0 0 1
+ 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }{PSTYLE "Hyperlink
+Warning" -1 207 1 {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 
+2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified M
+aple Output" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2
+ 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List Item" -1 14 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Maple Name" -1 35 "Times" 1 12 104 64
+ 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0
+ 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bold" -1 40 "Times" 1 
+12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1 38 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Courier New" 1
+ 12 120 0 14 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 
+1 12 0 0 255 1 2 2 2 2 2 1 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Time
+s" 1 1 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Output Labels" -1 29 "Tim
+es" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input Placeholder"
+ -1 200 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "C
+ode" -1 201 "Courier New" 1 12 255 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"2D Math Italic Small" -1 202 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 
+}{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0 0 0
+ 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 0 0 0 1 
+}{CSTYLE "Header and Footer" -1 203 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }{CSTYLE "Equation Label" -1 204 "Times" 1 12 0 0 0 1 2 1 2 2 2 
+2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 
+1 2 2 2 0 0 0 1 }{CSTYLE "Atomic Variable" -1 205 "Times" 1 12 175 0 
+175 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 
+128 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0
+ 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 206 "Times" 1
+ 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1
+ 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times"
+ 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1
+ 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Cour
+ier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Variable" -1 25 
+"Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined I
+talic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Mat
+h Bold Small" -1 10 "Times" 1 1 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "
+Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Plot Title" -1 27 "Times" 1 10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "H
+elp Emphasized" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{CSTYLE "Caption Reference" -1 207 "Times" 1 12 0 0 0 1 2 1 2
+ 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small205" -1 208 "Times" 1 1 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 209 "Times" 1
+ 12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" 
+-1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" -1
+ 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Prompt" -1 
+1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "
+Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 210 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1
+ 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Caption Text" -1 211 "Times"
+ 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 208 1 {CSTYLE "" -1 
+-1 "Times" 1 12 0 0 0 1 2 2 2 2 1 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "" -1 209 1 {CSTYLE "" -1 -1 "Courier New" 1 12 120 0 14
+ 1 2 1 2 2 1 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 30 "with(Statistics): w
+ith(plots):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 210 7 
+"Cz\352\234\346 1" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 11 "PX := \+
+t -> " }{MPLTEXT 1 0 14 "(.5+.5*t)^(10)" }{MPLTEXT 1 0 77 ": PN := t -
+> (.5+.5*t)^(60): PM := t -> exp(30*t-30): PK := t -> 1/(31-30*t):" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 54 "PGN := PN(PX(t)); PGM := PM
+(PX(t)); PGK := PK(PX(t)) ;" }{MPLTEXT 1 0 36 "#funkcje tworz\271ce pr
+awdopodobie\361stwo" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 90 "tayl
+or1 := series(PGN,t,260): taylor2 := series(PGM,t,260): taylor3 := ser
+ies(PGK,t,260): " }{MPLTEXT 1 0 46 " #rozwijamy w szereg -tutaj mo\277
+e d\263ugo liczy\346 " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 135 "P
+N1 := seq([i,coeff(taylor1,t,i)],i=0..259): PM1 := seq([i,coeff(taylor
+2,t,i)],i=0..259): PK1 := seq([i,coeff(taylor3,t,i)],i=0..259): " }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 148 "plotN := plot([PN1],color=
+\"blue\", legend=\"P_N\"): plotM := plot([PM1], color=\"green\", legen
+d=\"P_M\"): plotK := plot([PK1], color=\"red\", legend=\"P_K\"):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "display(\{plotN,plotM,plotK
+\})" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 83 "MGN := eval(PGN, t=e
+xp(t)): MGM := eval(PGM, t=exp(t)): MGK := eval(PGK, t=exp(t)):" }
+{MPLTEXT 1 0 26 " #funkcje tworz\271ce momenty" }}}{EXCHG {PARA 0 "> "
+ 0 "" {MPLTEXT 1 0 83 "DerivativeN := diff(MGN,t): DerivativeM := diff
+(MGM,t): DerivativeK := diff(MGK,t):" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 82 "eval(DerivativeN,t=0); eval(DerivativeM,t=0); eval(De
+rivativeK,t=0); #liczymy ES_i" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 110 "DerivativeN2 := diff(DerivativeN,t): DerivativeM2 := diff(Deriv
+ativeM,t): DerivativeK2 := diff(DerivativeK,t):" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 85 "eval(DerivativeN2,t=0); eval(DerivativeM2,t=0)
+; eval(DerivativeK2,t=0); #drugi moment" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 124 "A:=RandomVariable(Normal(150,28.72281)); B:= RandomV
+ariable(Normal(150,21.2132)); C:= RandomVariable(Normal(150,152.7252))
+; " }{MPLTEXT 1 0 29 "#Aproksymacja rozk\263adem Gamma" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 166 "Normal1 := DensityPlot(A,range=-0.
+.259, color=\"magenta\", legend=\"Rozk\263ad Normalny\"): Normal2 := D
+ensityPlot(B,range=0..259, color=\"magenta\", legend=\"Rozk\263ad Norm
+alny\"" }{MPLTEXT 1 0 59 "): Normal3 := DensityPlot(C,range=0..259, co
+lor=\"magenta\", " }{MPLTEXT 1 0 25 "legend=\"Rozk\263ad Normalny\"" }
+{MPLTEXT 1 0 2 "):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 76 "displ
+ay(\{Normal1,plotM\}); display(\{Normal2,plotN\}); display(\{Normal3,p
+lotK\})" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 82 "PNv := seq(coeff
+(taylor1,t,i),i=0..259): PMv := seq(coeff(taylor2,t,i),i=0..259): " }
+{MPLTEXT 1 0 40 "PKv := seq(coeff(taylor3,t,i),i=0..259):" }{MPLTEXT 
+1 0 37 "#wspolczynniki w troche innej postaci" }}}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 52 "ProbN:= (PNv,1-add(PNv)): ProbM:= (PMv,1-add(PMv
+)): " }{MPLTEXT 1 0 25 "ProbK:= (PKv,1-add(PKv)):" }{MPLTEXT 1 0 1 " "
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 68 "probN:=ProbabilityTable(
+[ProbN]): probM:=ProbabilityTable([ProbM]): " }{MPLTEXT 1 0 34 "probK:
+=ProbabilityTable([ProbK]): " }{MPLTEXT 1 0 1 " " }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 58 "pN := RandomVariable(probN); pM := RandomVari
+able(probM); " }{MPLTEXT 1 0 28 "pK := RandomVariable(probK);" }
+{MPLTEXT 1 0 2 "  " }{MPLTEXT 1 0 119 "#definiujemy nowe zmienne losow
+e o odpowiednich rozk\263adach (Przy S_K liczy\263o bardzo d\263ugo wi
+\352c postanowi\263em to pomin\271\346)" }}{PARA 0 "> " 0 "" {MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 70 "HistN := Histogr
+am(Sample(pN,50)): HistM := Histogram(Sample(pM,50)): " }{MPLTEXT 1 0 
+34 "HistK := Histogram(Sample(pK,50)):" }{MPLTEXT 1 0 1 " " }{MPLTEXT 
+1 0 19 " #histogramy pr\363bek" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 48 "display(\{HistN,plotN\}); display(\{HistM,plotM\}); " }
+{MPLTEXT 1 0 24 "display(\{HistK,plotK\}); " }}}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 138 "G1:
+=RandomVariable(Gamma(7/2,300/7)): G2:=RandomVariable(Gamma(6,25)): G3
+:=RandomVariable(Gamma(156,25/26)): #Aproksymacja rozk\263adem Gamma" 
+}}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 23 "WykrG1:=DensityPlot(G1," 
+}{MPLTEXT 1 0 56 "range=-0..259, color=\"magenta\",legend=\"Rozk\263ad
+ Gamma\"): " }{MPLTEXT 1 0 54 "WykrG2:=DensityPlot(G2,range=-0..259, c
+olor=\"magenta\"," }{MPLTEXT 1 0 22 "legend=\"Rozk\263ad Gamma\"" }
+{MPLTEXT 1 0 57 "): WykrG3:=DensityPlot(G3,range=-0..259, color=\"mage
+nta\"," }{MPLTEXT 1 0 22 "legend=\"Rozk\263ad Gamma\"" }{MPLTEXT 1 0 
+2 "):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 73 "display(\{WykrG1,p
+lotN\}); display(\{WykrG2,plotM\}); display(\{WykrG3,plotK\})" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "#Cz\352\234\346 2" }{MPLTEXT 
+1 0 0 "" }}}{EXCHG {PARA 208 "> " 0 "" {MPLTEXT 1 212 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 37 "cdf1:=ListTools:-PartialSums([PNv])
+: " }{MPLTEXT 1 0 37 "cdf2:=ListTools:-PartialSums([PMv]): " }{MPLTEXT
+ 1 0 47 "cdf3:=ListTools:-PartialSums([PKv]): #Zadanie 1" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 32 "CDFN:=seq([i,cdf1[i]],i=1..259):" }
+{MPLTEXT 1 0 32 "CDFM:=seq([i,cdf2[i]],i=1..259):" }{MPLTEXT 1 0 32 "C
+DFK:=seq([i,cdf3[i]],i=1..259):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 34 "plotCDFN:=plot([CDFN],color=\"blue\"" }{MPLTEXT 1 0 14 ", lege
+nd=\"S_N\"" }{MPLTEXT 1 0 2 "):" }{MPLTEXT 1 0 35 "plotCDFM:=plot([CDF
+M],color=\"green\"" }{MPLTEXT 1 0 14 ", legend=\"S_M\"" }{MPLTEXT 1 0 
+2 "):" }{MPLTEXT 1 0 33 "plotCDFK:=plot([CDFK],color=\"red\"" }
+{MPLTEXT 1 0 14 ", legend=\"S_K\"" }{MPLTEXT 1 0 3 "): " }{MPLTEXT 1 
+0 1 " " }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "display(\{plotCDF
+N,plotCDFM\});" }{MPLTEXT 1 0 29 "display(\{plotCDFN,plotCDFK\});" }
+{MPLTEXT 1 0 29 "display(\{plotCDFM,plotCDFK\});" }}}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 38 "VaRSN := seq([cdf1[i],i-1],i=1..259): " }
+{MPLTEXT 1 0 38 "VaRSM := seq([cdf2[i],i-1],i=1..259): " }{MPLTEXT 1 
+0 48 "VaRSK := seq([cdf3[i],i-1],i=1..259): #Zadanie 2" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 66 "ESSN := seq(sum(max(j-i, 0)*PNv[j],
+ j = 1 .. 259), i = 1 .. 259): " }{MPLTEXT 1 0 66 "ESSM := seq(sum(max
+(j-i, 0)*PMv[j], j = 1 .. 259), i = 1 .. 259): " }{MPLTEXT 1 0 65 "ESS
+K := seq(sum(max(j-i, 0)*PKv[j], j = 1 .. 259), i = 1 .. 259):" }
+{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 218 "TVarSN
+ := seq([cdf1[i], VaRSN[i][2]+ESSN[i]/(1-cdf1[i])], i = 1 .. 259): TVa
+rSM := seq([cdf2[i], VaRSM[i][2]+ESSM[i]/(1-cdf2[i])], i = 1 .. 259): \+
+TVarSK := seq([cdf3[i], VaRSK[i][2]+ESSK[i]/(1-cdf3[i])], i = 1 .. 259
+):" }{MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 71 "Pl
+otTVarSN := plot([TVarSN],color=\"blue\", legend=\"TVaR portfela S_N\"
+): " }{MPLTEXT 1 0 27 "PlotTVarSM := plot([TVarSM]" }{MPLTEXT 1 0 42 "
+,color=\"green\", legend=\"TVaR portfela S_M\"" }{MPLTEXT 1 0 3 "): " 
+}{MPLTEXT 1 0 27 "PlotTVarSK := plot([TVarSK]" }{MPLTEXT 1 0 40 ",colo
+r=\"red\", legend=\"TVaR portfela S_K\"" }{MPLTEXT 1 0 2 "):" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "display(\{" }{MPLTEXT 1 0 11 
+"PlotTVarSN," }{MPLTEXT 1 0 11 "PlotTVarSM," }{MPLTEXT 1 0 10 "PlotTVa
+rSK" }{MPLTEXT 1 0 2 "\})" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+122 "RWN:=(2*(160-30*5))/(30*2.5+15*5^2); RWM:=(2*(160-30*5))/(30*2.5+
+30*5^2); RWK:=(2*(160-30*5))/(30*2.5+930*5^2); #Zadanie 3" }}{PARA 209
+ "> " 0 "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+134 "CramerN:=[seq([i, exp(-RWN*i)], i = 0..99)]: CramerM:=[seq([i, ex
+p(-RWM*i)], i = 0..99)]: CramerK:=[seq([i, exp(-RWK*i)], i = 0..99)]:"
+ }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 92 "RuinPlotN:=plot(CramerN,
+ color=\"blue\", legend=\"Prawdopodobie\361stwo ruiny dla portfela S_N
+\"): " }{MPLTEXT 1 0 39 "RuinPlotM:=plot(CramerM,color=\"green\", " }
+{MPLTEXT 1 0 50 "legend=\"Prawdopodobie\361stwo ruiny dla portfela S_M
+\"" }{MPLTEXT 1 0 40 "): RuinPlotK:=plot(CramerK,color=\"red\", " }
+{MPLTEXT 1 0 50 "legend=\"Prawdopodobie\361stwo ruiny dla portfela S_K
+\"" }{MPLTEXT 1 0 2 "):" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 42 "
+display(\{RuinPlotN, RuinPlotM, RuinPlotK\})" }}}{EXCHG {PARA 0 "> " 0
+ "" {MPLTEXT 1 0 0 "" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}
+}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2
+ 33 1 1 }
