@@ -1,6 +1,6 @@
 # Non-life insurance mathematics
 
-We consider the random variables X~Bin(10,1/2), N~Bin(60,1/2), M~Poi(30) and K~Geo(1/31). We define the portfolios S_N, S_M and S_K as:
+We consider the random variables X-Bin(10,1/2), N-Bin(60,1/2), M-Poi(30) and K-Geo(1/31). We define the portfolios S_N, S_M and S_K as:
 S_N=X_1+...+X_N 
 S_M=X_1+...+X_M
 S_K=X_1+...+X_K
@@ -15,3 +15,4 @@ For the further investigation we're approximating the distribution by both Norma
 
 In this part we discuss the <_{CX} ordering of the portfolios, some risk measures together with probability of ruin using the Cramer Inequality.
 
+The main tool used in the project is Maple 2015. Paper was written using TeX.
